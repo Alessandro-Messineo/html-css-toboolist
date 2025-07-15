@@ -12,11 +12,18 @@ body {
 
 /* Stile header */
 .logo{
+    background-color: white;
+    padding: 10px 20px;
+    
+}
 
+.text-logo{
+    font-size: 40px;
+    font-weight: bold;
 }
 
 
 /* Stile main */
 .container{
-    
+
 }
