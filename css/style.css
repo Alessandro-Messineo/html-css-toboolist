@@ -35,5 +35,53 @@ body {
     width: 90%;
     margin: 0px auto;
     padding-top: 20px;
-    padding-bottom: 40px;
+    padding-bottom: 30px;
+}
+
+.badge{
+    display: inline-block;
+    width: 70px;
+    height: 23px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    font-size: 10px;
+    line-height: 25px;
+}
+
+.editorial{
+    background-color: #46ace7;
+}
+
+.q1-goals{
+    background-color:#9a72e9 ;
+}
+
+.recruiting{
+    background-color: #65bfaa;
+}
+
+.mobile{
+    background-color: #f3a033;
+}
+
+.website{
+    background-color: #d964a2;
+}
+
+.sales{
+    background-color:#afc922;
+}
+
+.x-mark{
+    color: red;
+}
+
+.check-mark{
+    color: green;
+}
+
+p{
+    padding: 10px;
+    font-size: 20px;
 }
