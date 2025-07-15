@@ -25,5 +25,15 @@ body {
 
 /* Stile main */
 .container{
+    width: 80%;
+    margin: 40px auto;
+    background-color: white;
+    border-radius: 5px ;
+}
 
+.container-section{
+    width: 90%;
+    margin: 0px auto;
+    padding-top: 20px;
+    padding-bottom: 40px;
 }
